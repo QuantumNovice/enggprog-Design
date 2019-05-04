@@ -10,3 +10,5 @@ Join this project to make open-source engineering successful.
 
 Faisal Rehman [FR]
 enggprog.com - Engineering Programs
+
+[Jupyter Notebook Live](https://nbviewer.jupyter.org/github/QuantumNovice/enggprog-Design/blob/master/Jupyer-Notebook/ICURVE.sce%20In%20Jupyter-Notebook%20Uses%20Python.ipynb)
